@@ -1,4 +1,5 @@
 /*
+ https://adventofcode.com/2021/day/5
 
 type Coord = [number, number];
 type Line = [Coord, Coord];
